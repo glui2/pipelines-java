@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/GavinLui0797/pipelinehelloworld/_apis/build/status/glui2.pipelines-java?branchName=master)](https://dev.azure.com/GavinLui0797/pipelinehelloworld/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
